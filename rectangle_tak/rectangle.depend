@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1538117583 source:c:\users\lochowsk\onedrive - nokia\prywatne\programowanie\rectangle\main.cpp
+	<iostream>
+	"rectangle.h"
+
+1536588987 c:\users\lochowsk\onedrive - nokia\prywatne\programowanie\rectangle\rectangle.h
+	<iostream>
+
+1536577407 source:c:\users\lochowsk\onedrive - nokia\prywatne\programowanie\rectangle\rectangle.cpp
+	<iostream>
+	"rectangle.h"
+

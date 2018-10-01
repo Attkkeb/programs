@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1537797423 source:c:\users\lochowsk\onedrive - nokia\prywatne\programowanie\fibonacci\main.cpp
+	<iostream>
+	<iomanip>
+
+1538125940 source:c:\users\lochowsk\onedrive - nokia\prywatne\programowanie\fibonacci_tak\main.cpp
+	<iostream>
+	<iomanip>
+

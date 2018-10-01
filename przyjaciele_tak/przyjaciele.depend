@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1538117139 source:c:\users\lochowsk\onedrive - nokia\prywatne\programowanie\przyjaciele\przyjaciele.cpp
+	<iostream>
+	"przyjaciele.h"
+
+1538117132 c:\users\lochowsk\onedrive - nokia\prywatne\programowanie\przyjaciele\przyjaciele.h
+	<iostream>
+
+1538117760 source:c:\users\lochowsk\onedrive - nokia\prywatne\programowanie\przyjaciele\main.cpp
+	<iostream>
+	"przyjaciele.h"
+

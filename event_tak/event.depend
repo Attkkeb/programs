@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1538124385 source:c:\users\lochowsk\onedrive - nokia\prywatne\programowanie\event\main.cpp
+	<iostream>
+	"event.h"
+
+1535454930 c:\users\lochowsk\onedrive - nokia\prywatne\programowanie\event\event.h
+	<iostream>
+
+1535454752 source:c:\users\lochowsk\onedrive - nokia\prywatne\programowanie\event\event.cpp
+	<iostream>
+	"event.h"
+
+1538124433 source:c:\users\lochowsk\onedrive - nokia\prywatne\programowanie\event_tak\event.cpp
+	<iostream>
+	"event.h"
+
+1535454930 c:\users\lochowsk\onedrive - nokia\prywatne\programowanie\event_tak\event.h
+	<iostream>
+
+1538124385 source:c:\users\lochowsk\onedrive - nokia\prywatne\programowanie\event_tak\main.cpp
+	<iostream>
+	"event.h"
+

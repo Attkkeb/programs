@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537796460 source:c:\users\lochowsk\onedrive - nokia\prywatne\programowanie\petla\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+

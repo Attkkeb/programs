@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533737061 source:c:\users\lochowsk\onedrive - nokia\prywatne\programowanie\silnia\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+

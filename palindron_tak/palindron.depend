@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537973469 source:c:\users\lochowsk\onedrive - nokia\prywatne\programowanie\palindron\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+

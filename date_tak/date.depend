@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538118381 source:c:\users\lochowsk\onedrive - nokia\prywatne\programowanie\date\main.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+

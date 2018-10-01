@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537797277 source:c:\users\lochowsk\onedrive - nokia\prywatne\programowanie\lotto\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+
